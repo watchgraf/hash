@@ -1,0 +1,7 @@
+## hash
+this program is written to
+hash and verify strings
+it can be used for passwords
+if you really want to do that
+
+it uses passlib.sha256_crypt
